@@ -1,5 +1,7 @@
 Gestor de tareas usable desde la terminal.
+
 Acepta 3 valores:
+
 -action: con valores "add" y "list", "add" permite añadir una tarea nueva y "list" muestra todas las tareas, pudiendo filtrar por orden de prioridad.
 -name: es un campo obligatorio. Le podremos asignar un nombre o una descripción de la tarea a realizar.
 -priority: con valores "low", "normal" o "high", por defecto será "normal". Permite asignarle un orden de prioridad a las tareas.
