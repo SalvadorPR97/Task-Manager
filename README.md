@@ -10,7 +10,13 @@ Acepta 3 valores:
 
 Por defecto se le añade el dia y la hora a la que se creó la tarea
 
+
 Ejemplo de uso:
-(en la carpeta donde tengamos tm.py)
+
+Entrada(en la carpeta donde tengamos tm.py)
+
 python tm.py add "Hacer declaracion de la renta"
-salida(en archivo tasks.csv):2022-11-29 12:28:39; normal; "Hacer declaracion de la renta" 
+
+salida(en archivo tasks.csv):
+
+2022-11-29 12:28:39; normal; "Hacer declaracion de la renta" 
